@@ -1,0 +1,20 @@
+.cardText {
+position: absolute;
+top: 72%;
+left: 40%;
+transform: translate(-50%, -50%);
+font-size: xx-large;
+
+}
+
+.img {
+    opacity: 0.6;
+}
+
+.learnmore {
+    position: absolute;
+top: 88%;
+left: 30%;
+transform: translate(-50%, -50%);
+font-weight: 700;
+}

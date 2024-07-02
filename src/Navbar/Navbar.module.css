@@ -1,0 +1,33 @@
+.navItemHover:active {
+   color: crimson !important;
+  }
+
+  .navItemHover:focus {
+    color: crimson !important;
+   }
+ 
+   .navItemHover:hover {
+    color: crimson !important;
+   }
+
+   .navItemHover {
+       color: #00306e !important;
+       font-weight: 600 !important;
+   }
+
+   .search {
+       padding: 10px 30px 10px 30px !important;
+       background-color:#f4f5f5 !important ;
+   }
+
+   .searchIcon {
+       position: absolute;
+       right: 85px;
+       top: 23px;
+   }
+
+   .logo {
+       margin-left: 80px;
+   }
+
+   
